@@ -24,7 +24,7 @@
     "@fortawesome/fontawesome-free": "^5.9.0",
     "@types/vuelidate": "^0.7.5",
     "@vue/cli-plugin-babel": "^3.8.0",
-    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.8.1",
     "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-prettier": "^4.0.1",
