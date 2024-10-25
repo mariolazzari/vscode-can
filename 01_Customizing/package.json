@@ -12,7 +12,7 @@
     "cuid": "^2.1.6",
     "typescript-debounce-decorator": "0.0.17",
     "v-tooltip": "^2.0.2",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-class-component": "^7.1.0",
     "vue-property-decorator": "^8.1.1",
     "vue-router": "^3.0.6",
